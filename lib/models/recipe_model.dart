@@ -34,9 +34,9 @@ List<RecipeItems> recipeItems = [
     woner:
     "https://www.befunky.com/images/wp/wp-2021-01-linkedin-profile-picture-after.jpg?auto=avif,webp&format=jpg&width=944",
     wonerName: "Natasha Evelyn",
-    image: 'assets/food-recipe/sald-mix.png',
+    image: 'assets/images/sald-mix.png',
     name: 'Salad Mix',
-    rate: 4,
+    rate: 5,
     calorie: 320,
     reviews: "24",
     weight: 300,
@@ -49,7 +49,7 @@ List<RecipeItems> recipeItems = [
     woner:
     "https://plus.unsplash.com/premium_photo-1676660359316-273bb172a0df?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d29tYW4lMjBwcm9maWxlfGVufDB8fDB8fHww",
     wonerName: "Natasha Evelyn",
-    image: 'assets/food-recipe/Shrimp Kale.png',
+    image: 'assets/images/Shrimp Kale.png',
     name: 'Shrimp Kale',
     rate: 4,
     calorie: 2200,
@@ -65,7 +65,7 @@ List<RecipeItems> recipeItems = [
     woner:
     "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?size=338&ext=jpg&ga=GA1.1.1819120589.1728086400&semt=ais_hybrid",
     wonerName: "",
-    image: 'assets/food-recipe/ckicken-salad.png',
+    image: 'assets/images/ckicken-salad.png',
     name: 'Chicken Salad',
     rate: 4.3,
     weight: 250,
@@ -77,7 +77,7 @@ List<RecipeItems> recipeItems = [
     carb: 15,
   ),
   RecipeItems(
-    image: 'assets/food-recipe/mushroom salad.png',
+    image: 'assets/images/mushroom salad.png',
     name: 'Mushroom salad',
     rate: 5.0,
     wonerName: "Mr/Ms Mushroom",
@@ -92,7 +92,7 @@ List<RecipeItems> recipeItems = [
     carb: 15,
   ),
   RecipeItems(
-    image: 'assets/food-recipe/grilled-chicken-salad.jpg',
+    image: 'assets/images/grilled-chicken-salad.jpg',
     name: 'Grilled Chicken Salad',
     rate: 4.5,
     fav: true,
@@ -107,7 +107,7 @@ List<RecipeItems> recipeItems = [
     carb: 15,
   ),
   RecipeItems(
-    image: 'assets/food-recipe/thai salad.png',
+    image: 'assets/images/thai salad.png',
     name: 'Thai Salad',
     rate: 4.9,
     fav: false,
